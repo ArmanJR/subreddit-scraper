@@ -19,7 +19,7 @@ do_step_1_now = False
 do_step_2_now = False
 ```
 
-Otherwise, it will use the sample data, which is **ChatGPT** subreddit on Jan 21st.
+Otherwise, it will use the sample data, which is **ChatGPT** subreddit on Jan 26th.
 
 ```
 python3 reddit-crawler.py
